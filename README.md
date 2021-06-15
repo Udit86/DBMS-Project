@@ -1,4 +1,4 @@
-# 12th-Project
+# DBMS Project
 A project based on application of DBMS using mySQL , PHP and HTML
 
 To run this project successfully you need to proceed through following steps :-
