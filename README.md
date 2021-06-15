@@ -1,5 +1,5 @@
 # 12th-Project
-A project based on application of databases using mySQL , PHP and HTML
+A project based on application of DBMS using mySQL , PHP and HTML
 
 To run this project successfully you need to proceed through following steps :-
 1. Save the project in XAMPP/htdocs/ folder.
