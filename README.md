@@ -1,6 +1,7 @@
 # DBMS Project
 A project based on application of DBMS using mySQL , PHP and HTML
 
+**Make sure you have script language PHP installed and configured on your device and a MySQL server installed before proceeding through the following steps.**
 To run this project successfully you need to proceed through following steps :-
 1. Save the project in XAMPP/htdocs/ folder.
 2. Run database.php once.
